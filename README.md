@@ -36,3 +36,7 @@ Produces load on configured number of CPU cores.
   - Default: -1
 - STRESS_MINS - number of mins for the test to run
   - Default: 1
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/hULCcsTiU3VevXhn0Y7VgcKct.svg)](https://asciinema.org/a/hULCcsTiU3VevXhn0Y7VgcKct)

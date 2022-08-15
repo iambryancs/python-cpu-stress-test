@@ -1,5 +1,7 @@
 # Python CPU Stress Test
 
+[![Build and Publish](https://github.com/iambryancs/python-cpu-stress-test/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/iambryancs/python-cpu-stress-test/actions/workflows/main.yml)
+
 Produces load on configured number of CPU cores.
 
 ## Requirements
@@ -16,7 +18,7 @@ Produces load on configured number of CPU cores.
 
    ```sh
    # cd to repo
-   cd path/to/python-cpu-stress-test
+   cd python-cpu-stress-test
 
    # actual build
    docker build -t python-stress .
